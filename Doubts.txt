@@ -1,0 +1,9 @@
+1) Will the hospitals be our potential client? Will they be using our application?
+
+
+
+2) Many instances are unhealthy in the target group?
+3) Were there any security breaches occured so far?
+4) Overall Infrastructure idea 
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUdg7bKt2nlBh6hvLgAt8oAX8pWMS4Fz68z/UkGXbyLg7cXDI0may6YfCVbZ9kwvl3fABhPy3n1McCu8I9vmLyX2JRE2CgAPXY4sIq+Y/R+DhqyZhVLYjjaWWTqU/iYPrOVgbNBWXxPBFYcBYYYKdi3h/jzinXBkt3HOfhtY1aix5GuzGbiZhidGy7fMYhXEZuu/seB0SSO4zbPgwJf1siS2XlSqbpCjql8O3suSKDtmD3F2pgDmRJyYZvGiyOnIlo+lihrTeg/kqTBW91kII8mjirhkfS3WkY4vyJR6NIHOOo4Cz8YPE8HmreAeS6E+TyYuhpedNtvjoJVw8ypM+9ozCihndLJFwm5nNc3Wmf8Ommcu8AXP8JOepLBB0yp/kIdmUHPp9+Hk9PpVmvhtJE/lnT1RG5PM7n1J2JwqgnrfzfEIoFoMHAWFb2kJfQvRdG8EiRvVouUP5hbh+jdKmsjHr2hsfzNDA4Xttys3dLklcyHXiZM9JGYeXVPFJbaJM= smoorthy@LAP-XPS13
